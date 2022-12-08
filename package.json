@@ -23,7 +23,7 @@
     "gatsby-plugin-sitemap": "^2.4.3",
     "gatsby-plugin-styled-components": "^3.3.2",
     "gatsby-source-filesystem": "^2.3.8",
-    "gatsby-source-strapi": "0.0.10",
+    "gatsby-source-strapi": "2.0.0",
     "gatsby-transformer-sharp": "2.2.2",
     "node-sass": "^8.0.0",
     "prop-types": "^15.7.2",
